@@ -1,6 +1,6 @@
 # CrossArmFusion
 
-Densedepthestimationissignificantinroboticsystems,suchasformapping,localization,andobjectrecognition.Formultiple sensors, an active depth sensor can provide accurate but sparse measurements for environments, and a camera pair can provide dense but imprecise stereo reconstruction results. 
+Dense depth estimation is significant in robotic systems,such as for mapping, localization, and object recognition. For multiple sensors, an active depth sensor can provide accurate but sparse measurements for environments, and a camera pair can provide dense but imprecise stereo reconstruction results. 
 
 In this project, a tightly coupled fusion method is proposed for depth sensor and stereo camera to complete dense depth estimation, and advantages of the two type sensors are combined so as to achieve better depth estimation. An adaptive dynamic cross-arm algorithm are developed to integrate sparse depth measurements into camera-dominated semiglobal stereo matching. 
 
